@@ -1,6 +1,5 @@
 package com.rambabu.helloWorld;
 
-import com.rambabu.controllers.HelloWorldApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 

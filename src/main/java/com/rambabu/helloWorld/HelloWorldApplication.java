@@ -8,7 +8,7 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 @EnableAutoConfiguration
-@ComponentScan(basePackages = {"com/rambabu/controllers"})
+@ComponentScan(basePackages = {"com.rumba"})
 @SpringBootApplication
 public class HelloWorldApplication {
 
